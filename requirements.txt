@@ -1,0 +1,13 @@
+openai
+python-dotenv
+scikit-learn
+numpy
+matplotlib
+pandas
+langchain-openai
+faiss-cpu
+rank_bm25
+tiktoken
+faker
+tqdm
+seaborn

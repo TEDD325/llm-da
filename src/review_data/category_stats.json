@@ -1,0 +1,22 @@
+{
+  "total_files": 115,
+  "sampled_files": 115,
+  "category_distribution": {
+    "기술적 문제": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "불만 사항": {
+      "count": 76,
+      "percentage": 66.09
+    },
+    "개선 요구": {
+      "count": 19,
+      "percentage": 16.52
+    },
+    "장점": {
+      "count": 20,
+      "percentage": 17.39
+    }
+  }
+}
