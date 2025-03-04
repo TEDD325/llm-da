@@ -656,3 +656,4 @@ if __name__ == "__main__":
     insights_fig.savefig(insights_output_path)
     
     print(f"LLM 분석 완료: {insights_output_path} 파일에 결과가 저장되었습니다.")
+    print("기존 데이터 분포 시각화와 LLM 분석 결과 시각화를 저장해봐야 합니다.")
